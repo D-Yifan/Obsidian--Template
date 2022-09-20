@@ -1,0 +1,34 @@
+{
+  "choices": [
+    {
+      "id": "1e4316be-e9ba-4dd0-b545-305874f61de7",
+      "name": "提示框",
+      "type": "Macro",
+      "command": false,
+      "macroId": null
+    },
+    {
+      "id": "59ce453c-0ad5-4406-a1ac-d3127364d12a",
+      "name": "notion",
+      "type": "Macro",
+      "command": false,
+      "macroId": null
+    }
+  ],
+  "macros": [
+    {
+      "name": "notion",
+      "id": "65a142e9-b898-4938-a81b-8240822e17aa",
+      "commands": [
+        {
+          "name": "Admonition: Insert Admonition",
+          "type": "Obsidian",
+          "id": "48870891-2bda-490f-9bdf-29fa072d2494",
+          "commandId": "obsidian-admonition:insert-admonition"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "multi-line"
+}

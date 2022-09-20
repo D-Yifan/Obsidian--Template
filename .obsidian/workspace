@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "8c6501515c0a6c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce9cfac305d42970",
+        "type": "leaf",
+        "state": {
+          "type": "ob-gallery",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df4692311d86e81f",
+    "type": "split",
+    "children": [
+      {
+        "id": "20abb995f24553b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad20802c80b7fabd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1e3be28168ef816",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "token",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e09ba8190fee480b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "right": {
+    "id": "8b32e2cf240a0839",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b276fe8ad6da85",
+        "type": "tabs",
+        "dimension": 38.035019455252915,
+        "children": [
+          {
+            "id": "8d14a250314d65d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d7043f0841fd8a20",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e4068b2522684de",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "04984608ea6a5073",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "616233c61fdad8bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dea529c9ea37cb0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffc32cb34428b6c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "399db12d767434c1",
+            "type": "leaf",
+            "state": {
+              "type": "ob-gallery-info",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "a2ea976abaa36530",
+        "type": "tabs",
+        "dimension": 61.964980544747085,
+        "children": [
+          {
+            "id": "26b5f223bae065d5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "ce9cfac305d42970",
+  "lastOpenFiles": [
+    "未分类/未分类/DYPLOCDynamicPlanning2021hua.md",
+    "未分类/知识型对话/LearningConversationDialogue2022cai.md",
+    "未分类/知识型对话/OpenDialKGExplainableConversational2019moon.md",
+    "未分类/知识型对话/DyKgChatBenchmarkingDialogue2019tuan.md",
+    "未分类/知识型对话/CallCustomizedConversation2022jang.md",
+    "未分类/知识型对话/LearningExpressKnowledgeGrounded2022zhao.md",
+    "未分类/知识型对话/StylisticResponseGeneration2022sahaa.md",
+    "未分类/知识型对话/LexicalKnowledgeInternalization2022wu.md",
+    "绘图/Lexical Knowledge Internalization for Neural Dialog Generation图示.md",
+    "未分类/知识型对话/TargetGuidedDialogueResponse2022gupta.md"
+  ]
+}

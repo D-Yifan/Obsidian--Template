@@ -1,0 +1,19 @@
+{
+  "menuCommands": [
+    {
+      "name": "Citations: Insert literature note link",
+      "id": "obsidian-citation-plugin:insert-citation",
+      "icon": "quote-glyph"
+    },
+    {
+      "name": "Citations: Open literature note",
+      "id": "obsidian-citation-plugin:open-literature-note",
+      "icon": "stacked-levels"
+    },
+    {
+      "name": "Citations: Refresh citation database",
+      "id": "obsidian-citation-plugin:update-bib-data",
+      "icon": "reset"
+    }
+  ]
+}

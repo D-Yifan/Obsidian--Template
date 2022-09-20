@@ -1,0 +1,222 @@
+{
+  "appData": {},
+  "state": {
+    "实验记录/Dusinc比赛.md": {
+      "table-id-jz5cjc": {
+        "data": {
+          "headers": [
+            {
+              "id": "column-id-tc6wsz",
+              "content": "New Column",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "column-id-82xufd",
+              "content": "New Column",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "row-id-22m9r9",
+              "creationTime": 1654437720384
+            },
+            {
+              "id": "row-id-rjzveo",
+              "creationTime": 1654437720932
+            },
+            {
+              "id": "row-id-2m82h9",
+              "creationTime": 1654437721131
+            },
+            {
+              "id": "row-id-f89an0",
+              "creationTime": 1654437721332
+            }
+          ],
+          "cells": [
+            {
+              "id": "cell-id-o7m9ft",
+              "rowId": "row-id-22m9r9",
+              "headerId": "column-id-tc6wsz",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            },
+            {
+              "id": "cell-id-sw41uk",
+              "rowId": "row-id-22m9r9",
+              "headerId": "column-id-82xufd",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            },
+            {
+              "id": "cell-id-hvchv0",
+              "rowId": "row-id-rjzveo",
+              "headerId": "column-id-tc6wsz",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            },
+            {
+              "id": "cell-id-3supru",
+              "rowId": "row-id-rjzveo",
+              "headerId": "column-id-82xufd",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            },
+            {
+              "id": "cell-id-xdrsp8",
+              "rowId": "row-id-2m82h9",
+              "headerId": "column-id-tc6wsz",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            },
+            {
+              "id": "cell-id-vu0l6r",
+              "rowId": "row-id-2m82h9",
+              "headerId": "column-id-82xufd",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            },
+            {
+              "id": "cell-id-abrz0y",
+              "rowId": "row-id-f89an0",
+              "headerId": "column-id-tc6wsz",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            },
+            {
+              "id": "cell-id-27f0bh",
+              "rowId": "row-id-f89an0",
+              "headerId": "column-id-82xufd",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "reading",
+        "shouldUpdate": false
+      }
+    },
+    "莆田文档/莆院毕设选题.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "00bf1845-8cd9-45aa-afa1-3c390ccb5e26",
+              "initialIndex": 0,
+              "content": "",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "26bb1b68-062e-4bf9-a582-7b58ddc25024",
+              "initialIndex": 1,
+              "content": "",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "adc778aa-4804-415e-b124-1f309daf2762",
+              "initialIndex": 2,
+              "content": "",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "f0be9f42-c0a3-404d-a606-bc3cd64cb6bf",
+              "initialIndex": 0,
+              "creationTime": 1657350926730
+            },
+            {
+              "id": "28b9a544-7b58-4ba2-834d-a36753f58fea",
+              "initialIndex": 1,
+              "creationTime": 1657350927409
+            }
+          ],
+          "cells": [
+            {
+              "id": "1cd9dbad-6727-430d-b297-4ab46f7065f5",
+              "rowId": "f0be9f42-c0a3-404d-a606-bc3cd64cb6bf",
+              "headerId": "00bf1845-8cd9-45aa-afa1-3c390ccb5e26",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "9cac3b84-826c-40c9-8589-32e68d00e4c8",
+              "rowId": "f0be9f42-c0a3-404d-a606-bc3cd64cb6bf",
+              "headerId": "26bb1b68-062e-4bf9-a582-7b58ddc25024",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "eb5732c0-f5f8-47b6-8274-480e145e28e7",
+              "rowId": "f0be9f42-c0a3-404d-a606-bc3cd64cb6bf",
+              "headerId": "adc778aa-4804-415e-b124-1f309daf2762",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "4959d2d8-f67b-45ac-9753-413be48671bc",
+              "rowId": "28b9a544-7b58-4ba2-834d-a36753f58fea",
+              "headerId": "00bf1845-8cd9-45aa-afa1-3c390ccb5e26",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "0c013f50-8409-4180-a7b0-071f1e70934e",
+              "rowId": "28b9a544-7b58-4ba2-834d-a36753f58fea",
+              "headerId": "26bb1b68-062e-4bf9-a582-7b58ddc25024",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "41f3dfbe-4069-4b49-9a10-46f9d67f605a",
+              "rowId": "28b9a544-7b58-4ba2-834d-a36753f58fea",
+              "headerId": "adc778aa-4804-415e-b124-1f309daf2762",
+              "type": "text",
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "shouldUpdate": false,
+        "viewType": "live-preview"
+      }
+    },
+    "未分类/知识型对话/KdConvChineseMultidomain2020zhou.md": {
+      "table-id-sjdqck": {
+        "data": {
+          "headers": [],
+          "rows": [],
+          "cells": [],
+          "tags": []
+        },
+        "viewType": "live-preview",
+        "shouldUpdate": true
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  },
+  "excludedFiles": []
+}
